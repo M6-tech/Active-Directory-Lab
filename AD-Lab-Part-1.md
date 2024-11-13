@@ -87,6 +87,7 @@ Naming my root domain as ‘rabat.local’
 
 ![Capture25](https://github.com/user-attachments/assets/b229e846-0473-431e-a941-fc846cd81be9)
 
+Now, a restart is required. Upon restarting your system, you’ll be greeted by a wonderful login screen.
 
-
+![Capture26](https://github.com/user-attachments/assets/89e742b5-b18f-4689-95c0-51845c406dae)
 
