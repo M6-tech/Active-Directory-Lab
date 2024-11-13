@@ -31,11 +31,19 @@ Windows 10 ISO
 
 2. Select Windows Server 2019 Datacenter Evaluation (Desktop Experience) > Next > Tick the license terms > Next
 
+![Capture9](https://github.com/user-attachments/assets/44adf0f0-2255-4368-a81b-dcb224ab3696)
 
-3. Select, Custom: Install Windows only (advanced) > New > Apply > Next
+![Capture10](https://github.com/user-attachments/assets/9cd687e8-49c7-4f71-a4c6-4d10f3c1ba40)
 
+3. Select, Custom: Install Windows only (advanced).
+
+![Capture11](https://github.com/user-attachments/assets/59830798-3abe-4a09-a369-1ed3bd16258c)
+
+![Capture13](https://github.com/user-attachments/assets/95143d6f-68c5-4b0c-bf2a-8ca3f1577989)
 
 4. After successful installation, enter a password > Finish. Then enter the password to login after finalization.
+
+![Capture14](https://github.com/user-attachments/assets/6eb0f72d-c65f-42d5-9bf3-3f61fa5677d0)
 
 
 5. 
