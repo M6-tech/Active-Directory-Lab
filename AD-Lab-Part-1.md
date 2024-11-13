@@ -55,7 +55,7 @@ Windows 10 ISO
 
 ![Capture16](https://github.com/user-attachments/assets/e4df950d-921a-40a0-ad15-3f471480c825)
 
-2. Change date and time + time zone
+2. Change date and time + time zone & Configure a static IP address.
 
 ![Capture17](https://github.com/user-attachments/assets/a4038e9c-aa7e-494c-9e84-1df41eb813e6)
 
