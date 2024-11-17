@@ -18,11 +18,33 @@ First click on Manage > Add Roles and Features > Next > Choose Role-based > Next
 
 # Configuration
 
-Go to Tools > DHCP
+_Go to Tools > DHCP_
 
-First i will authorize this server to distribute addresses in the domain.
+First I will authorize this server to distribute addresses in the domain.
 
 ![Capture3](https://github.com/user-attachments/assets/e0699055-43df-4659-bdaa-86f37a8f915c)
 ![Capture4](https://github.com/user-attachments/assets/d2ab76f7-8c55-41ea-b43c-523d15cc100a)
+
+To create a scope Right click on IPv4 > Choose New Scope > Give a name to the scope > Enter the scope range > You can add exclusion addresses or ranges > Finally configure some options (Gateway, DNS Servers, NTP Server, etc...)
+
+![Capture5](https://github.com/user-attachments/assets/702649fa-0472-45da-9305-5d311da72198)
+
+![Capture6](https://github.com/user-attachments/assets/0b50de2d-8b48-4fd2-b729-8a5a189691cd)
+
+![Capture7](https://github.com/user-attachments/assets/a6e439d9-29e0-4040-9d30-856b4b03059f)
+
+![Capture8](https://github.com/user-attachments/assets/f577151e-0f7f-437a-9911-792f1fd89bcc)
+
+![Capture9](https://github.com/user-attachments/assets/859111d4-b128-4cf1-8e42-111c0e7e111c)
+
+![Capture10](https://github.com/user-attachments/assets/e5834566-f0f1-49ba-9cf0-9258d247ec55)
+
+![Capture11](https://github.com/user-attachments/assets/2dda8057-2559-4bc4-b2bd-16c4ebcb0876)
+
+
+
+
+
+
 
 
