@@ -27,3 +27,4 @@ _Adds an IPv4 scope on the DHCP server service._
 _Adds a range of excluded IP addresses for an IPv4 scope._
 
 > Add-Dhcpserverv4ExclusionRange -ScopeId 192.168.150.0 -StartRange 192.168.150.2 -EndRange 192.168.150.29
+
