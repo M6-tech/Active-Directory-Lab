@@ -10,7 +10,7 @@ _Install Active Directory Services_
 
 _Promote Domain Controller._
 
-> Install-ADDSDomainController -DomainName "rabat.local" -InstallDns:$true -Credential (Get-Credential "LAB\administrator")
+> Install-ADDSDomainController -DomainName "rabat.local" -InstallDns:$true -Credential (Get-Credential "RABAT\administrator")
 
 _Install DHCP Role._
 
